@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: Arial, serif;
+}
+
+.wrapper {
+    background: white;
+}
+
+.main {
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    padding: 35px 0 33px 0;
+    border-bottom: 2px solid #ffffff2e;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-right: 282px;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu-item {
+    margin-right: 51px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.menu-item a {
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+    line-height: 1.2;
+}
+
+.layout {
+    padding: 150px 0 205px;
+}
+
+.layout-title {
+    font-size: 33px;
+    color: white;
+    line-height: 1.2;
+    font-weight: bold;
+    max-width: 360px;
+    margin-bottom: 80px;
+}
+
+.img-star {
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    margin-right: 15px;
+}
+
+.s-nulya-do-junior {
+    font-size: 15px;
+    color: white;
+    margin-top: 87px;
+}
+
+.layout-action {
+    margin-top: 101px;
+}
+
+.button {
+    width: 195px;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button.button-white-transparent {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+
+.about-course {
+    text-align: center;
+    padding: 140px 0;
+}
+
+.about-course-title {
+    margin-bottom: 68px;
+    font-size: 32px;
+    text-align: left;
+    color: #8b67d6;
+}
+
+.about-course-list {
+    list-style: none;
+    padding: 0;
+}
+
+.about-course-item {
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    color: #311b5d;
+}
+
+.img-star {
+    display: inline-block;
+}
+
+.courses {
+    background: url("../images/bg2.png");
+    background-size: cover;
+    background-position: center;
+    padding-top: 140px;
+}
+
+.learn-from-professionals.container {
+    max-width: 996px;
+    margin: 0 auto;
+    padding: 57px 57px 44px 57px;
+    text-align: center;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 15px;
+}
+
+.learn-from-professionals-title {
+    font-size: 34px;
+    color: #8b67d6;
+    font-weight: bold;
+    margin-bottom: 39px;
+    text-align: center;
+}
+
+.learn-from-professionals-text {
+    font-size: 15px;
+    color: #311b5e;
+    text-align: center;
+    max-width: 588px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.learn-from-professionals-text2 {
+    font-size: 15px;
+    color: #311b5e;
+    text-align: center;
+    max-width: 588px;
+    margin: 0 auto;
+}
+
+.button-lilac-transparent {
+    background-color: transparent;
+    border: 2px solid #c4a1ea;
+    color: #c4a1ea;
+    margin-top: 40px;
+}
+
+.footer {
+    border-top: 2px solid #ffffff2e;
+    margin-top: 140px;
+}
+
+.itlogia .container {
+    text-align: center;
+}
+
+.footer-logo {
+    padding: 47px 0 46px 0;
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 568px;
+}
